@@ -47,3 +47,10 @@ Average word length 4.03. fraction of unique words 0.76
 52 syllables, 33 words, 2 sentences
 56.79 flesch score: Fairly difficult to read
 ```
+
+#### Improvements
+
+While the example script works it could be improved from a software engineering perspective. 
+- Functions could be split into their own files / modules
+- Unit Tests could be written for each function
+- The `get_suggestions` function could be broken down further to make it easier to read
